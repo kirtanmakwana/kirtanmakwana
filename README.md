@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/kirtanmakwana/kirtanmakwana/blob/master/Banner.gif)](https://kirtanmakwana.github.io)
-<h1 align="center">Hi 👋, I'm kirtan makwana</h1>
+<h1 align="center">Hi 👋, I'm Kirtan Makwana</h1>
 <h3 align="right">🚀Data scientist | Machine Learning Aspirant ⚙️ | Data-Driven AI Innovator with a 🎯 Passion for AI |</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kirtanmakwana/kirtanmakwana/blob/master/sticker.gif">
